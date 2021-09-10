@@ -2,29 +2,29 @@
 The task is about to find out if a customer’s marital status and number of children have an impact on whether they will default on a loan. 
 
 after analyzing the different variable , the customer is divided into different groups according to their credit notes
-# Step 1. 
+Step 1. 
 
 Open the data
 
-# Step 2 
+Step 2 
 
 Identify and fill in missing values
 Replace the real number data type with the integer type
 Delete duplicate data
 Categorize the data
 
-#Step 3
+Step 3
 
 Checking whether  there is a connection between having kids and repaying a loan on time 
 Checking whether there is a connection between marital status and repaying a loan on time
 Checking whether there is a connection between income level and repaying a loan on time
 Checking how do different loan purposes affect on-time loan repayment?
 
-#Step 4
+Step 4
 Write an overall conclusion.
 
 
-# Description of the data
+Description of the data
 
 children: the number of children in the family
 days_employed: how long the customer has been working
